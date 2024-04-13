@@ -1,0 +1,20 @@
+BOM,Chhatrapati Shivaji Maharaj International Airport,Mumbai,2,19.0896,72.8656
+BLR,Kempegowda International Airport,Bangalore,2,13.1986,77.7066
+DEL,Indira Gandhi International Airport,New Delhi,2,28.5562,77.1000
+MAA,Chennai International Airport,Chennai,1,12.9900,80.1690
+HYD,Rajiv Gandhi International Airport,Hyderabad,3,17.2319,78.4294
+CCU,Netaji Subhas Chandra Bose International Airport,Kolkata,1,22.6528,88.4467
+IXA,Agartala Airport,Tripura,1,23.8860,91.2407
+GOI,Goa International Airport,Dabolim,2,15.3808,73.8314
+PNQ,Pune Airport,Pune,1,18.5822,73.9197
+AMD,Sardar Vallabhbhai Patel International Airport,Ahmedabad,1,23.0778,72.6347
+JAI,Jaipur International Airport,Jaipur,2,26.8240,75.8007
+BHU,Bhavnagar Airport,Bhavnagar,1,21.7522,72.1852
+IXC,Chandigarh International Airport,Chandigarh,2,30.6735,76.7885
+SXR,Sheikh ul-Alam International Airport,Srinagar,1,33.9873,74.7740
+RPR,Swami Vivekananda Airport,Raipur,2,21.1805,81.7380
+LKO,Chaudhary Charan Singh International Airport,Lucknow,2,26.7606,80.8894
+IXM,Madurai Airport,Madurai,1,9.8345,78.0888
+PAT,Jay Prakash Narayan Airport,Patna,1,25.5900,85.0880
+IXE,Mangalore International Airport,Mangalore,2,12.9617,74.8900
+IXR,Birsa Munda Airport,Ranchi,1,23.3147,85.3214
