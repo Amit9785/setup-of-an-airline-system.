@@ -69,7 +69,7 @@ public:
     Aircraft aircraft;
     vector<Seat> availableSeats;
     FoodOption foodOption;
-    unordered_map<string, Airport>& airports; // Reference to airports for distance calculation
+    unordered_map<string, Airport>& airports; 
 
     Flight(const string& number, const string& departure, const string& destination,
         const string& depTime, const string& depDay, const string& arrTime, const string& arrDay,
